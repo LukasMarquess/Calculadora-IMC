@@ -1,0 +1,16 @@
+.headerH1 {
+    font-size: 2rem;
+    padding: 1rem;
+    color: #fff;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.H1{
+    background-color: #0a52eb;
+    border-radius: 80%;
+    padding: 1rem;
+}
